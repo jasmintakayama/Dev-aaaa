@@ -1,3 +1,4 @@
+/* general */
 * {
     margin: 0;
     padding: 0;
@@ -12,6 +13,7 @@ body {
     font-family: Bahnschrift, sans-serif;
 }
 
+/* Navigation Bar start*/
 nav {
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -95,3 +97,5 @@ nav li:first-child {
         width: 100%;
     }
 }
+
+/* Navigation Bar end */
